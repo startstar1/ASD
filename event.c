@@ -1,6 +1,6 @@
-/// @file event.c
+﻿/// @file event.c
 /// @brief 事件管理
-
+AAAAAAAAAAAAAAAAAAA
 #include "event_def.h"
 #include "util_interface.h"
 #include "event_interface.h"
